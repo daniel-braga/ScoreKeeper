@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Score Keeper</string>
+    <string name="team_a_logo">Team A logo</string>
+    <string name="team_a_name" translatable="false">MOG</string>
+    <string name="zero">0</string>
+    <string name="three_points">+3 points</string>
+    <string name="two_points">+2 points</string>
+    <string name="free_throw">free throw</string>
+    <string name="foul">foul</string>
+    <string name="reset">reset</string>
+    <string name="team_b_name">WBA</string>
 </resources>
